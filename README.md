@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+%7C+PHP+%7C+Blade+Developer;E-commerce+%26+Topup+Site+Specialist;Building+Payment+Gateway+Integrations;Open+for+Remote+%26+Freelance+Work" alt="Typing SVG" />
-</p>
+</p> 
 
 ---
 
