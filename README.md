@@ -54,9 +54,6 @@
 ### 📊 GitHub Stats
 
   <tr>
-    <td align="center" width="80%">
-      <img src="https://github-readme-stats.vercel.app/api?username=fs-shariyar-bd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" style="width:100%;" />
-    </td>
     <td align="center" width="60%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-shariyar-bd&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" style="width:100%;" />
     </td>
