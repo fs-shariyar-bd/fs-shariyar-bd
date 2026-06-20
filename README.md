@@ -76,7 +76,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://ferdous-shariyar.space.z.ai/" target="_blank">
+  <a href="https://ferdous-shariyar.space-z.ai/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://t.me/Shariyar_webdev" target="_blank">
