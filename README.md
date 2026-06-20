@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ferdous Shariyar</h1>
+ <h1 align="center">Hi 👋, I'm Ferdous Shariyar</h1>
 <h3 align="center">Full-Stack Web Developer | Laravel Specialist | E-commerce & Fintech Solutions</h3>
 
 <p align="center">
