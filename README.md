@@ -18,7 +18,7 @@
 - 💞️ Open to **remote jobs, freelance work & project collaborations**
 - 📫 Reach me at: **shariyar.webdev@gmail.com**
 - 💬 Telegram: **[@Shariyar_webdev](https://t.me/Shariyar_webdev)**
-- 🌐 Portfolio: **[ferdous-shariyar.space.z.ai](https://ferdous-shariyar.space.z.ai/)**
+- 🌐 Portfolio: **[fs-shariyar.space.z.ai](https://fs-shariyar.space.z.ai/)**
 
 ---
 
