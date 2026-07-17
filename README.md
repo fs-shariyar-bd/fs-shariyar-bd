@@ -52,7 +52,7 @@
 ---
 
 ### 📊 GitHub Stats
-<table>
+
   <tr>
     <td align="center" width="60%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-shariyar-bd&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" style="width:100%;" />
@@ -64,7 +64,7 @@
     </td>
 
   </tr>
-</table>
+
 
 
 <div>
