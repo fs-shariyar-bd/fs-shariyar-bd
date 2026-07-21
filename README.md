@@ -10,10 +10,6 @@
 ### 🧑‍💻 About Me
 
 - 🚀 Full-Stack Web Developer specializing in **Laravel, PHP & Blade**
-- 🛒 I build **E-commerce platforms** — similar to AliExpress, Amazon, Daraz
-- 💳 I build **Topup / Recharge sites** — similar to RRR Bazar, Pipo Bazar
-- 🏥 Experienced in **Medical Store / Pharmacy management systems**
-- 📲 I develop **SMS reader integrations** and **Auto Payment Gateway** systems
 - 🌱 Currently sharpening my skills and exploring **Next.js** for modern frontends
 - 💞️ Open to **remote jobs, freelance work & project collaborations**
 - 📫 Reach me at: **shariyar.webdev@gmail.com**
@@ -28,7 +24,10 @@
 |---|---|
 | E-commerce Platforms | AliExpress, Amazon, Daraz style stores |
 | Topup / Recharge Sites | RRR Bazar, Pipo Bazar style platforms |
-| Medical Store Systems | Pharmacy & inventory management |
+| Game Top-up & Subscription | Free Fire, PUBG in-game items & subscription sites |
+| POS Systems | Point of Sale software for shops & retail |
+| Medical Store Systems | Pharmacy & inventory management with POS |
+| Hospital / Medical Websites | Hospital management & appointment systems |
 | Payment Integrations | Auto payment gateways, SMS reader bots |
 
 ---
@@ -39,11 +38,16 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
